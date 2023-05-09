@@ -8,6 +8,13 @@ This paper investigates the use of Natural Language Processing (NLP) and two pop
 
 - <b>Python</b>
 
+<h2>Dataset</h2>
+
+- [<b>IMDb Reviews</b>](https://developer.imdb.com/non-commercial-datasets/)
 
 
+<p align="center">
+Launch the utility: <br/>
+<img src="https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/bert_models_layout.jpeg?ssl=1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
